@@ -23,17 +23,19 @@
 ### Contributing
 ### License
 
-This is how the app looks like:
+### This is how the app looks like:
+### Main menu is this: 
+![Alt text](<Screenshot from 2023-12-19 13-49-31.png>)
 
 ![Alt text](<Screenshot from 2023-12-19 13-42-20.png>)
 
 ![Alt text](<Screenshot from 2023-12-19 13-41-18.png>)
 
-# Getting Started
+# Getting Started 🚀🚀🚀
 ### Prerequisites
 ### Make sure you have Python installed.
 
-# Installation
+# Installation ⚡⚡⚡⚡⚡
 
 ## Clone the repository:
 ### git clone git@github.com:JerryTarus/crotonngenie.git
@@ -44,32 +46,33 @@ This is how the app looks like:
 ## Or
 ### pipenv install sqlalchemy alembic click
 
-# Usage
+# Usage 🖱️🖱️🖱️
 ## Menu
 
-### It should display the UI like this:
+### It should display the UI like this
+### 👇👇👇
 
 ![Alt text](<Screenshot from 2023-12-19 13-49-31.png>)
 ## To start Crotonn Genie, run the following command:
 ### pipenv run python main.py menu
 
 
-## Adding a Product
+## Adding a Product ✅✅✅
 ### To add a new product, select option 1 from the menu and follow the prompts.
 
-## Updating a Product
+## Updating a Product ✅
 ### To update a product, select option 2 from the menu and follow the prompts.
 
-## Deleting a Product
+## Deleting a Product ❌
 ### To delete a product, select option 3 from the menu and follow the prompts.
 
 ## Searching for Products
 ### To search for products, select option 4 from the menu and enter the search keyword.
 
-## Exporting Product Data to JSON
+## Exporting Product Data to JSON ✈️✈️✈️
 ### To export product data to a JSON file, select option 5 from the menu.
 
-## Database
+## Database 🗄️🗄️🗄️
 ## Initialization
 ### The database is initialized with initial data by running the init_db command.
 
@@ -87,5 +90,5 @@ This is how the app looks like:
 ### The Product class represents a product with details such as name, price, quantity in stock, and category.
 
 
-## License
+## License ©️ 
 ### This project is licensed under the MIT License - see the LICENSE file for details.
