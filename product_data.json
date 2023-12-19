@@ -1,0 +1,37 @@
+[
+    {
+        "Product ID": 1,
+        "Name": "Lawn Mower",
+        "Price": 219,
+        "Quantity in Stock": 30,
+        "Category": "Gardening"
+    },
+    {
+        "Product ID": 2,
+        "Name": "TCL 43\" TV Ultra 4K",
+        "Price": 459,
+        "Quantity in Stock": 98,
+        "Category": "Electronics"
+    },
+    {
+        "Product ID": 3,
+        "Name": "Sony DSLR Camera 18mm",
+        "Price": 479,
+        "Quantity in Stock": 107,
+        "Category": "Electronics"
+    },
+    {
+        "Product ID": 5,
+        "Name": "Dell XPS core i9",
+        "Price": 599,
+        "Quantity in Stock": 99,
+        "Category": "Electronics"
+    },
+    {
+        "Product ID": 6,
+        "Name": "Razor Mousepad",
+        "Price": 21.99,
+        "Quantity in Stock": 89,
+        "Category": "Accessories"
+    }
+]
