@@ -23,7 +23,11 @@
 ### Contributing
 ### License
 
+This is how the app looks like:
 
+![Alt text](<Screenshot from 2023-12-19 13-42-20.png>)
+
+![Alt text](<Screenshot from 2023-12-19 13-41-18.png>)
 
 # Getting Started
 ### Prerequisites

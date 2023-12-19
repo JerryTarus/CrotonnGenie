@@ -33,5 +33,40 @@
         "Price": 21.99,
         "Quantity in Stock": 89,
         "Category": "Accessories"
+    },
+    {
+        "Product ID": 7,
+        "Name": "TCL 43\" TV",
+        "Price": 699,
+        "Quantity in Stock": 399,
+        "Category": "Electronic"
+    },
+    {
+        "Product ID": 8,
+        "Name": "Lawn Mower",
+        "Price": 309,
+        "Quantity in Stock": 39,
+        "Category": "Gardening"
+    },
+    {
+        "Product ID": 9,
+        "Name": "Never Again",
+        "Price": 2.88,
+        "Quantity in Stock": 999,
+        "Category": "Books"
+    },
+    {
+        "Product ID": 10,
+        "Name": "Razor Mousepad",
+        "Price": 19.99,
+        "Quantity in Stock": 999,
+        "Category": "Accessories"
+    },
+    {
+        "Product ID": 11,
+        "Name": "Dell XPS 64GB RAM",
+        "Price": 799.99,
+        "Quantity in Stock": 599,
+        "Category": "Laptops"
     }
 ]
