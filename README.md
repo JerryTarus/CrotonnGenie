@@ -47,6 +47,9 @@ This is how the app looks like:
 # Usage
 ## Menu
 
+### It should display the UI like this:
+
+![Alt text](<Screenshot from 2023-12-19 13-49-31.png>)
 ## To start Crotonn Genie, run the following command:
 ### pipenv run python main.py menu
 
